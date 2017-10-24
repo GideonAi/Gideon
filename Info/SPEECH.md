@@ -23,7 +23,3 @@ https://cloud.google.com/speech/
 https://speech-to-text-demo.mybluemix.net/
 https://www.ibm.com/watson/developercloud/speech-to-text/api/v1/
 ```
-
-```sh
-
-```
