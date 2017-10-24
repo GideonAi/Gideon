@@ -5,3 +5,9 @@ Microsoft Speech Platform SDK 11: https://msdn.microsoft.com/en-us/library/hh362
 Speech Platforms: https://msdn.microsoft.com/en-us/library/hh361571(v=office.14).aspx
 
 Google Speech API (Depreciated): https://cloud.google.com/speech/
+
+> Speech to text: 
+```sh
+https://speech-to-text-demo.mybluemix.net/
+https://www.ibm.com/watson/developercloud/speech-to-text/api/v1/
+```
