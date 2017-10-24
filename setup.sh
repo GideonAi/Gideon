@@ -12,5 +12,5 @@ echo installing dependencies ...
 sudo apt install wget git curl unzip python-pip python-dev build-essential 
 sudo pip install --upgrade pip
 sudo pip install --upgrade virtualenv
-
+pip3 install pyvmomi
 #-----------------------------------------------
