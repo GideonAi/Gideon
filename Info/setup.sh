@@ -9,5 +9,8 @@ sudo apt update
 sudo apt install toilet
 # Gideon depends
 echo installing dependencies ...
-sudo apt install wget apache2 mysql-server php5 libapache2-mod-php5 default-jre screen git curl unzip
+sudo apt install wget git curl unzip python-pip python-dev build-essential 
+sudo pip install --upgrade pip
+sudo pip install --upgrade virtualenv
+
 #-----------------------------------------------
