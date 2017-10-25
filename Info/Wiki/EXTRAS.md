@@ -6,6 +6,6 @@
 
 > Phrases
 
-```
-lel
 ```sh
+lel
+```
