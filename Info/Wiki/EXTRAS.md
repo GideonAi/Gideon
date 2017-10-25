@@ -2,4 +2,10 @@
 
 ---
 
-# Secret commands
+# Secret Voice Commands
+
+> Phrases
+
+```
+lel
+```sh
