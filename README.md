@@ -10,6 +10,10 @@ An attempt to recreate Gideon form DC Legends that is compatable with most voice
 2. Data gets sent to [Api.ai](https://api.ai/) or [Dialogflow](https://dialogflow.com/) for responce
 3. TTS or Text To Speech tells you what the responce is with audio.
 ```
+> Reference:
+[Api.ai](https://api.ai/)
+[Dialogflow](https://dialogflow.com/)
+
 # Powered by:
 ---
 > Gideon is powered by [Dialogflow](https://dialogflow.com/) also known now as [Api.ai](https://api.ai/)
