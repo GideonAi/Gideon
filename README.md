@@ -12,6 +12,6 @@ An attempt to recreate Gideon form DC Legends that is compatable with most voice
 ```
 
 ---
-> Note: Gideon is powered by [Dialogflow](https://dialogflow.com/) also known now as [Api.ai](https://api.ai/)
+> Gideon is powered by [Dialogflow](https://dialogflow.com/) also known now as [Api.ai](https://api.ai/)
 ![Api.ai-Logo](https://dialogflow.com/_static/2d4cf7ef5e/images/dialogflow/lockup.svg)
 ---
