@@ -37,4 +37,13 @@ You're right. - Thank you for taking my advice!
 Are you sure? - Yes!
 Talk to me. - Ok.
 Are you there? - Yes I am!
+Courtesy:
+That's bad. - I know.
+Great! - Great!
+No problem. - Thank you!
+Thank you! - Your welcome!
+Well done! - Thank you!
+Emotions:
+Ha ha ha! - Ha ha ha!
+Wow! - I know!
 ```
