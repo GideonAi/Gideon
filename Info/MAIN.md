@@ -46,4 +46,21 @@ Well done! - Thank you!
 Emotions:
 Ha ha ha! - Ha ha ha!
 Wow! - I know!
+hello/goodbye:
+Bye-bye! - Bye! | See you later!
+Good evening! - You too.
+Good morning! - Good morning!
+Good night! - Sleep well!
+Hello! - hi! | How are you?
+How are you? - I'm good. How about you?
+Nice to meet you! - Nice to meet you too!
+Nice to see you! - Nice to see you too!
+Nice to talk to you! - Nice to talk to you too!
+What's up? - The clouds! | The sky! | Nothing much.
+about user:
+I'm very angry right now. - How may I be of assistance. | Take a deep breath. What can I do to make things better?
+I'm back! - How may I be of assistance.
+
+confirmation:
+Yes. | No. | Cancel. - Ok.
 ```
