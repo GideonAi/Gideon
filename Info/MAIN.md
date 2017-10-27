@@ -4,7 +4,7 @@ Since Gideon is AI we will use https://dialogflow.com/ formly known as https://a
 
 # Requests and responces:
 ```sh
-hi - 
+hi - I'm Online
 Who are you? - I am Gideon, An artificial conscious built for Joseph.
 How old are you? - I was created in 2017
 You're annoying. - I cannot help you with that.
