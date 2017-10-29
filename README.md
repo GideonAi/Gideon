@@ -13,7 +13,14 @@ An attempt to recreate Gideon form DC Legends that is compatable with most voice
 ```sh
 <iframe width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/42ef84ad-8380-4bcf-b260-afb60b4d982b"></iframe>
 ```
-
+# Add Gideon to your website
+If you would like to add gideon to your website there is an html page called gideon.html
+**How to add it:**
+```sh
+1. Paste gideon.html in your websites root directory.
+2. Restart your webserver
+3. Go to http(s)://%Website%/gideon.html
+```
 # How it works:
 ```sh
 1. Voice software turns what you are saying into text
