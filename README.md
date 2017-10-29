@@ -6,8 +6,8 @@ An attempt to recreate Gideon form DC Legends that is compatable with most voice
 
 # Try it:
 1. go to https://bot.dialogflow.com/42ef84ad-8380-4bcf-b260-afb60b4d982b
-2. Tell **google assistant** to *Talk to gideon*
-3. Talk to Gideon on skype
+2. Tell **google assistant** to *Talk to gideon*.
+3. Talk to Gideon on skype.
 4. Talk to Gideon on webchat: https://goo.gl/EUnTRz
 5. Embed it with iframe:
 ```sh
@@ -15,6 +15,7 @@ An attempt to recreate Gideon form DC Legends that is compatable with most voice
 ```
 # Add Gideon to your website
 If you would like to add gideon to your website there is an html page called gideon.html
+Page Src: https://raw.githubusercontent.com/josephworks/Gideon/master/gideon.html
 **How to add it:**
 ```sh
 1. Paste gideon.html in your websites root directory.
