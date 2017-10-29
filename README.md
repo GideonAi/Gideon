@@ -7,7 +7,10 @@ An attempt to recreate Gideon form DC Legends that is compatable with most voice
 # Try it:
 1. go to https://bot.dialogflow.com/42ef84ad-8380-4bcf-b260-afb60b4d982b
 2. Tell **google assistant** to *Talk to gideon*
-3. Embed it with iframe:
+3. Talk to Gideon on skype
+4. Talk to Gideon on webchat: 
+https://webchat.botframework.com/embed/GideonaAI?s=ctYq3M36cmU.cwA.BTo.KsWRfbIE2rnNkAp6t5o8Bdn7yvMxZ_ti8yGGrSE-Ji0
+5. Embed it with iframe:
 ```sh
 <iframe width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/42ef84ad-8380-4bcf-b260-afb60b4d982b"></iframe>
 ```
