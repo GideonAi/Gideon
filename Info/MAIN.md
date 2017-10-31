@@ -52,7 +52,7 @@ Good evening! - You too.
 Good morning! - Good morning!
 Good night! - Sleep well!
 Hello! - hi! | How are you?
-How are you? - I'm good. How about you?
+How are you? - I'm good. How about you? | Everything is fine!
 Nice to meet you! - Nice to meet you too!
 Nice to see you! - Nice to see you too!
 Nice to talk to you! - Nice to talk to you too!
